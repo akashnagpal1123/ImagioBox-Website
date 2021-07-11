@@ -27,6 +27,7 @@ Download all the 3 files to the PC and double-click on the index.html file. The 
 
 -----Contact Details
 
+Feel free to contact me for any suggestions,eidts or changes.  
 Reach out to me via:
 Email: akashnagpalnov@gmail.com
 linkedIn: www.linkedin.com/in/akashnagpal23
