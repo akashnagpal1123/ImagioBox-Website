@@ -1,5 +1,6 @@
 # ImagioBox-Website
-Company Description
+Company Description:
+
 Imagiobox is world's first smart activity subscription box designed to meet the creative needs of young developing minds.
 Each box contains a series of fun filled art and craft activities, books, DIY projects and other exciting collectibles uniquely designed to encourage curiosity and to inspire your child's natural creative instincts.
 
