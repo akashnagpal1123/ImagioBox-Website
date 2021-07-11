@@ -4,6 +4,7 @@ Imagiobox is world's first smart activity subscription box designed to meet the 
 Each box contains a series of fun filled art and craft activities, books, DIY projects and other exciting collectibles uniquely designed to encourage curiosity and to inspire your child's natural creative instincts.
 
 *********ABOUT THE PROJECT********
+
  I've made a website project which is a different version of the home page of the website: https://imagiobox.com/ using various creativity and coding skills.
  This project is basically a Front-end web development project made using various skills HTML,CSS and JavaScript from the scratch and ofcourse this website, with the help of media queries, have been made a fully responsive webbsite.
  The CSS alignment has been done using the RespnsiveGridSystem in this project.
